@@ -8,8 +8,23 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, UIScrollViewDelegate {
 
+    @IBOutlet weak var Background: UIScrollView!
+    
+    func scrollViewDidScroll(_ scrollView: UIScrollView) {
+        
+    let Backgroundheight = Background
+        .contentSize.height - Background.bounds.height
+        let percentageScroll = Background.contentOffset.y / Backgroundheight
+        let BackgroundHeight = Background.contentSize.height - Background.bounds.height
+        
+        Background.contentOffset = CGPoint(x: 0, y: BackgroundHeight * percentageScroll)
+    
+     Background.delegate = self
+        
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

@@ -12,6 +12,13 @@
 		BB98D0F01E7C51E300FA2116 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB98D0EE1E7C51E300FA2116 /* Main.storyboard */; };
 		BB98D0F21E7C51E300FA2116 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB98D0F11E7C51E300FA2116 /* Assets.xcassets */; };
 		BB98D0F51E7C51E300FA2116 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB98D0F31E7C51E300FA2116 /* LaunchScreen.storyboard */; };
+		BB98D0FD1E7C546000FA2116 /* in-n-out.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BB98D0FC1E7C546000FA2116 /* in-n-out.jpeg */; };
+		BB98D0FF1E7F766B00FA2116 /* Number 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BB98D0FE1E7F766B00FA2116 /* Number 1.jpeg */; };
+		BB98D1011E7F770200FA2116 /* Number 2.png in Resources */ = {isa = PBXBuildFile; fileRef = BB98D1001E7F770200FA2116 /* Number 2.png */; };
+		BB98D1031E7F784000FA2116 /* Number 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BB98D1021E7F784000FA2116 /* Number 3.jpeg */; };
+		BB98D1051E7F78AA00FA2116 /* animal Fries.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BB98D1041E7F78AA00FA2116 /* animal Fries.jpeg */; };
+		BB98D1071E7F78F200FA2116 /* Protein Burger.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BB98D1061E7F78F200FA2116 /* Protein Burger.jpeg */; };
+		BB98D1091E7F792C00FA2116 /* 4X4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BB98D1081E7F792C00FA2116 /* 4X4.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +29,13 @@
 		BB98D0F11E7C51E300FA2116 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB98D0F41E7C51E300FA2116 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB98D0F61E7C51E300FA2116 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB98D0FC1E7C546000FA2116 /* in-n-out.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "in-n-out.jpeg"; sourceTree = "<group>"; };
+		BB98D0FE1E7F766B00FA2116 /* Number 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Number 1.jpeg"; sourceTree = "<group>"; };
+		BB98D1001E7F770200FA2116 /* Number 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Number 2.png"; sourceTree = "<group>"; };
+		BB98D1021E7F784000FA2116 /* Number 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Number 3.jpeg"; sourceTree = "<group>"; };
+		BB98D1041E7F78AA00FA2116 /* animal Fries.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "animal Fries.jpeg"; sourceTree = "<group>"; };
+		BB98D1061E7F78F200FA2116 /* Protein Burger.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Protein Burger.jpeg"; sourceTree = "<group>"; };
+		BB98D1081E7F792C00FA2116 /* 4X4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4X4.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +74,13 @@
 				BB98D0F11E7C51E300FA2116 /* Assets.xcassets */,
 				BB98D0F31E7C51E300FA2116 /* LaunchScreen.storyboard */,
 				BB98D0F61E7C51E300FA2116 /* Info.plist */,
+				BB98D0FC1E7C546000FA2116 /* in-n-out.jpeg */,
+				BB98D0FE1E7F766B00FA2116 /* Number 1.jpeg */,
+				BB98D1001E7F770200FA2116 /* Number 2.png */,
+				BB98D1021E7F784000FA2116 /* Number 3.jpeg */,
+				BB98D1041E7F78AA00FA2116 /* animal Fries.jpeg */,
+				BB98D1061E7F78F200FA2116 /* Protein Burger.jpeg */,
+				BB98D1081E7F792C00FA2116 /* 4X4.jpeg */,
 			);
 			path = "In-N-Out Menu";
 			sourceTree = "<group>";
@@ -123,9 +144,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB98D1051E7F78AA00FA2116 /* animal Fries.jpeg in Resources */,
+				BB98D1011E7F770200FA2116 /* Number 2.png in Resources */,
+				BB98D1031E7F784000FA2116 /* Number 3.jpeg in Resources */,
+				BB98D0FD1E7C546000FA2116 /* in-n-out.jpeg in Resources */,
 				BB98D0F51E7C51E300FA2116 /* LaunchScreen.storyboard in Resources */,
+				BB98D0FF1E7F766B00FA2116 /* Number 1.jpeg in Resources */,
+				BB98D1091E7F792C00FA2116 /* 4X4.jpeg in Resources */,
 				BB98D0F21E7C51E300FA2116 /* Assets.xcassets in Resources */,
 				BB98D0F01E7C51E300FA2116 /* Main.storyboard in Resources */,
+				BB98D1071E7F78F200FA2116 /* Protein Burger.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
